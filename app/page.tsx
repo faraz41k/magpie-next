@@ -1,19 +1,17 @@
 import BookNow from "@/components/BookNow";
-import Features from "@/components/Features";
+
 import Hero from "@/components/Hero";
-import Slider from "@/components/Slider";
+
 
 
 import Carousel from "@/components/Carousel";
-import Head from "next/head";
+
 import About from "@/components/About";
 import Plan from "@/components/plan";
 import Booking from "@/components/Booking";
 
 
-<Head>
 
-</Head>
 
 
 export default function Home() {
